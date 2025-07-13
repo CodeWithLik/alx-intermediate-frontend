@@ -1,6 +1,0 @@
-Steps to install SASS:
-
-1. Install Node.js (if not already installed)
-2. Open terminal/command prompt
-3. Run command: npm install -g sass@3.7.4
-4. Verify installation with: sass --version
